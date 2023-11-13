@@ -2,7 +2,7 @@
 
 ### Problem Statement:
 
-How can we accurately recommend new books to users using a user-item approach to encourage expanding user preferences to books they may not have otherwise found on their own?
+How can we accurately recommend new books to users using a Item-item approach to encourage expanding user preferences to books they may not have otherwise found on their own?
 
 ### Context
 
@@ -24,9 +24,9 @@ Due to the presence of potentially millions of possible recommendations, the foc
 
 ### Data Source
 
-https://www.kaggle.com/datasets/cynthiarempel/amazon-us-customer-reviews-dataset?select=amazon_reviews_us_Books_v1_02.tsv
+https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/#subsets
 
-**_Size of Dataset_**: 3.24GB
+**_Size of Dataset_**: 2GB
 
 ## Authors
 
