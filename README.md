@@ -31,3 +31,25 @@ https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/#subsets
 ## Authors
 
 -   [@kylerodriguez](https://www.github.com/kyleanthonyr)
+
+## Appendix
+
+Some great Resources for Recommender Systems:
+
+Theory:
+
+-   [A Complete Guide To Recommender Systems](https://towardsdatascience.com/a-complete-guide-to-recommender-system-tutorial-with-sklearn-surprise-keras-recommender-5e52e8ceace1)
+
+-   [Introduction to Recommender Systems](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada)
+
+-   [Build a Recommendation Engine with Collaborative Filtering](https://realpython.com/build-recommendation-engine-collaborative-filtering/#using-python-to-build-recommenders)
+
+Hands-on:
+
+-   [Recommenders-team](https://github.com/recommenders-team/recommenders/blob/main/examples/02_model_collaborative_filtering/als_deep_dive.ipynb)
+-   [Databricks Spark Training](https://github.com/databricks/spark-training/blob/master/machine-learning/python/solution/MovieLensALS.py)
+-   [Tensorflow Recommenders Tutorial](https://www.tensorflow.org/recommenders/examples/basic_retrieval)
+
+Great Data:
+
+-   [Recommender Systems and Personalization Datasets](https://cseweb.ucsd.edu/~jmcauley/datasets.html)
