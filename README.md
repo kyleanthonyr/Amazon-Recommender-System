@@ -32,6 +32,13 @@ https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/#subsets
 
 -   [@kylerodriguez](https://www.github.com/kyleanthonyr)
 
+## Badges
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+![Static Badge](https://img.shields.io/badge/Pyspark-blue)
+![Static Badge](https://img.shields.io/badge/Recommender%20System-green)
+![Static Badge](https://img.shields.io/badge/Surprise-red?style=plastic&link=https%3A%2F%2Fsurprise.readthedocs.io%2Fen%2Fstable%2Fgetting_started.html)
+
 ## Appendix
 
 Some great Resources for Recommender Systems:
